@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Summary</title>
+    <style>
+        .text {
+            width: 816px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 11px;
+            color: black;
+            text-align: left;
+            background-color: white;
+        }
+
+        .summary {
+            min-height: 200px;
+            width: 816px;
+            box-sizing: border-box;
+            padding: 24px 16px;
+            border-bottom: 4px solid #404040;
+            font-family: Arial, Helvetica, sans-serif;
+            color: black;
+            text-align: left;
+            background-color: white;
+            display: flex;
+            align-items: center;
+        }
+
+        .summary h1 {
+            margin: 0;
+            font-size: 17px;
+            font-weight: normal;
+            display: flex;
+            align-items: flex-start;
+            line-height: 1.4;
+            width: 100%;
+        }
+
+        /* Stylowa, okrągła kropka */
+        .summary h1::before {
+            content: "";
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            background-color: #404040;
+            border-radius: 50%;
+            margin-right: 14px;
+            margin-top: 4px;
+            flex-shrink: 0;
+        }
+
+        .summary h1 b {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="summary">
+        <h1>Przez 25 lat utworzono&nbsp;<b>1,7 miliona artykułów</b></h1>
+    </div>
+
+    <div class="summary">
+        <h1>Zarejestrowano&nbsp;<b>ponad 42 miliony kont</b></h1>
+    </div>
+
+    <div class="summary">
+        <h1>Porządku Wikipedii pilnuje&nbsp;<b>średnio 1400 edytorów</b></h1>
+    </div>
+    
+    <div class="summary">
+        <h1>Na każdą anonimową edycję&nbsp;<b>przypadają 4 edycje zarejestrowanego użytkownika</b></h1>
+    </div>
+    
+    <div class="summary">
+        <h1>Najczęściej edytowanym artykułem,&nbsp;<b>z ponad 8 tysiącami edycji</b>,&nbsp;jest artykuł o pandemii Covid-19</h1>
+    </div>
+    
+    <div class="summary">
+        <h1>Najczęściej edytowanymi artykułami w każdym roku&nbsp;<b>były te dotyczące turniejów piłkarskich</b></h1>
+    </div>
+</body>
+</html>
