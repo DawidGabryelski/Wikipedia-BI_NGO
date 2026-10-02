@@ -84,7 +84,7 @@ Poniżej przedstawiono porównanie obu wersji językowych raportu (Strona 1):
   * Zestawia ze sobą miesięczną liczbę nowych rejestracji kont (linia ciemna) oraz liczbę aktywnych edytorów (linia szara).
   * Z danych wynika wyraźna korelacja w pierwszych latach działalności projektu, gdzie wysoka liczba rejestracji szła w parze z rosnącym zaangażowaniem społeczności. W późniejszym okresie widoczna jest stabilizacja liczby aktywnych edytorów w okolicach 1300-2000 osób miesięcznie, co pokazuje rdzeń stałych kontrybutorów dbających o jakość encyklopedii.
  
-  * ## Analiza zawartości i wykresów (Strona 2)
+## Analiza zawartości i wykresów (Strona 2)
 
 Druga strona infografiki skupia się na strukturze zaangażowania użytkowników (podział na edycje użytkowników zarejestrowanych i anonimowych) oraz na najpopularniejszych artykułach w historii polskiej Wikipedii.
 
@@ -96,15 +96,16 @@ Poniżej przedstawiono porównanie obu wersji językowych raportu (Strona 2):
 | :---: | :---: |
 | <img width="508" height="657" alt="P2 PL" src="https://github.com/user-attachments/assets/69591171-c8ad-4a0d-900f-e63e67b9313a" />| <img width="508" height="663" alt="P2" src="https://github.com/user-attachments/assets/e91bca7c-7121-400b-af41-e3c50b49d31d" />|
 
+
 ### Kluczowe elementy i analizy na stronie 2:
 
 * **Udział edycji (Wykres skumulowany 100%):**
   * Zestawia proporcje edycji dokonywanych przez użytkowników zarejestrowanych oraz anonimowych w okresach pięcioletnich (od 2001 do 2026 roku).
   * Wykres pokazuje wyraźną dominację zalogowanych edytorów, którzy odpowiadają za co najmniej 80% do 88% wszystkich wprowadzanych zmian (z wyłączeniem zautomatyzowanych botów), co potwierdza stabilny i odpowiedzialny rdzeń społeczności.
-* **Top 10 najczęściej edytowanych artykułów w historii (Tabela dolna):**
+* **Top 10 najczęściej edytowanych artykułów w historii (Tabela dolna z parametrem pola):**
   * Prezentuje zestawienie stron, które generowały największą liczbę interakcji i modyfikacji na przestrzeni lat.
+  * Tabela została wzbogacona o **interaktywny parametr pola**, który pozwala użytkownikowi dynamicznie zmieniać miarę wyświetlaną obok artykułów: oprócz klasycznej **liczby edycji**, można przełączyć widok na **różnicę względem pierwszej pozycji** oraz **różnicę procentową**.
   * Na czele rankingu znajduje się artykuł dotyczący pandemii COVID-19 w Polsce (ponad 8,3 tysiąca edycji), a w czołówce widoczne są również tematy związane z popkulturą, mediami, sportem (np. Robert Lewandowski, skoki narciarskie) oraz bieżącymi wydarzeniami społecznymi.
-
 
 ## Analiza zawartości i wykresów (Strona 3)
 
@@ -120,12 +121,13 @@ Poniżej przedstawiono podgląd struktury analitycznej dla strony trzeciej:
 
 ### Kluczowe elementy i analizy na stronie 3:
 
-* **Najpopularniejszy artykuł każdego roku (Tabela roczna):**
+* **Najpopularniejszy artykuł każdego roku (Tabela roczna z parametrem pola):**
   * Zestawia liderów liczby edycji w każdym roku historii projektu (od 2001 do 2026 roku).
+  * Tabela została wzbogacona o **interaktywny parametr pola**, który pozwala dynamicznie przełączać miarę obok artykułów na **różnicę względem roku poprzedniego**, co ułatwia śledzenie dynamiki zmiany liczby edycji rok do roku.
   * Wyraźnie widoczna jest cykliczność związana z wielkimi wydarzeniami sportowymi – regularnie na szczycie rocznych rankingów edycji plasują się strony poświęcone Mistrzostwom Europy w Piłce Nożnej oraz Mistrzostwom Świata (np. Euro 2008, Euro 2012, Euro 2016, Mundial 2014, 2018, 2022).
   * W zestawieniu dominuje również odzwierciedlenie najważniejszych wydarzeń społeczno-politycznych oraz kryzysów zdrowotnych i historycznych w Polsce i na świecie, takich jak katastrofa smoleńska w 2010 roku (rekordowe 1604 edycje w skali roku) czy pandemia COVID-19.
- 
-  * ## Podsumowanie i kluczowe wnioski (Strona 4)
+
+## Podsumowanie i kluczowe wnioski (Strona 4)
 
 Ostatnia, czwarta strona infografiki zawiera zwięzłe podsumowanie najważniejszych liczb oraz wniosków wynikających z 25-letniej historii polskiej Wikipedii.
 
